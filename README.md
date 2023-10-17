@@ -17,7 +17,7 @@ The code includes:
 2. Fitting simulated data with
    i. naive multistate model that assumes an exponential baseline hazard and independent subjects 
    ii. naive multistate model that assumes a Weibull baseline hazard and independent subjects 
-   iii. GEE with independent correlaiton structures
+   iii. GEE with independent correlation structures
    iv. Within cluster resampling method
    v. Weighted score function method
    vi. 2-piece weighted score function method
@@ -37,7 +37,7 @@ The code includes:
 2. Fitting simulated data with
    i. naive multistate model that assumes an exponential baseline hazard and independent subjects 
    ii. naive multistate model that assumes a Weibull baseline hazard and independent subjects 
-   iii. GEE with independent correlaiton structures
+   iii. GEE with independent correlation structures
    iv. Within cluster resampling method
    v. Weighted score function method
    vi. 2-piece weighted score function method
@@ -48,21 +48,21 @@ The code includes:
 
 ##  Marginal.inference.ordinalLogits.zip
 
-This folder cantains intermediate results from marginal_weibull_ordinalLogits_simulation.R. 
+This folder contains intermediate results from marginal_weibull_ordinalLogits_simulation.R. 
 
 For each of the four simulation scenarios (m = 100, 500; tau = 1, 10), we ran the simulation 1000 times and saved the output.
 
-We also summarized the simulation results including mean estiamtes, mean standard deviations and empirical standard errors for each sceanrio. 
+We also summarized the simulation results including mean estimates, mean standard deviations and empirical standard errors for each scenario. 
 
 
 
 ##  Marginal.inference.3quantileICS.zip
 
-This folder cantains intermediate results from marginal_weibull_quantileICS_simulation.R. 
+This folder contains intermediate results from marginal_weibull_quantileICS_simulation.R. 
 
 For each of the four simulation scenarios (m = 100, 500; tau = 1, 10), we ran the simulation 1000 times and saved the output.
 
-We also summarized the simulation results including mean estiamtes, mean standard deviations and empirical standard errors for each sceanrio. 
+We also summarized the simulation results including mean estimates, mean standard deviations and empirical standard errors for each scenario. 
 
 
 
@@ -70,7 +70,7 @@ We also summarized the simulation results including mean estiamtes, mean standar
 
 R code for creating marginal hazard ratios and marginal cumulative baseline hazards for simulation results. 
 
-Users can use the results from the folders "Marginal.inference.ordinalLogits" and "Marginal.inference.3quantileICS" to reporduce the plots in the article. 
+Users can use the results from the folders "Marginal.inference.ordinalLogits.zip" and "Marginal.inference.3quantileICS.zip" to reproduce the plots in the article. 
 
 
 
