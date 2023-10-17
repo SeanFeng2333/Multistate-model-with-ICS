@@ -22,7 +22,7 @@ The code includes:
    v. Weighted score function method
    vi. 2-piece weighted score function method
 
-3. Organize and save the results. The results were saved in the folder "Marginal.inference.ordinalLogits"
+3. Organize and save the results. The results were saved in the zip folder "Marginal.inference.ordinalLogits.zip"
 
 
 
@@ -42,11 +42,11 @@ The code includes:
    v. Weighted score function method
    vi. 2-piece weighted score function method
 
-3. Organize and save the results. The results were saved in the folder "Marginal.inference.3quantileICS"
+3. Organize and save the results. The results were saved in the zip folder "Marginal.inference.3quantileICS.zip"
 
 
 
-##  Marginal.inference.ordinalLogits
+##  Marginal.inference.ordinalLogits.zip
 
 This folder cantains intermediate results from marginal_weibull_ordinalLogits_simulation.R. 
 
@@ -56,7 +56,7 @@ We also summarized the simulation results including mean estiamtes, mean standar
 
 
 
-##  Marginal.inference.3quantileICS
+##  Marginal.inference.3quantileICS.zip
 
 This folder cantains intermediate results from marginal_weibull_quantileICS_simulation.R. 
 
